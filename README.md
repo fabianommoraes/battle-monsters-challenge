@@ -22,7 +22,7 @@ The following stack was mandatory:
 
 Additionally, some frameworks/libs/tools were implemented to enhance the development and deploy experiency:
 - [Next.js](https://nextjs.org/)
-- [Storybook](https://storybook.js.org/)https://storybook.js.org/
-- [Cypress](https://www.cypress.io/)https://www.cypress.io/
-- [Github Actions](https://docs.github.com/pt/actions)https://docs.github.com/pt/actions
-- [ESLint](https://eslint.org/)https://eslint.org/ / [Prettier](https://prettier.io/)https://prettier.io/
+- [Storybook](https://storybook.js.org/)
+- [Cypress](https://www.cypress.io/)
+- [Github Actions](https://docs.github.com/pt/actions)
+- [ESLint](https://eslint.org/) / [Prettier](https://prettier.io/)
