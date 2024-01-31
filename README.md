@@ -1,12 +1,18 @@
 # Battle of Monsters Challenge
 
-How to run locally:
+**How to run locally:**
 
 `npm i`
 
 `npm run dev`
 
 Or you can also visit: https://battle-monsters-challenge.vercel.app/
+
+
+**Storybook**
+
+`npm run storybook`
+
 
 **This is a project made for a interview challenge**
 
