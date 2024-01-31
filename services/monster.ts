@@ -1,4 +1,5 @@
-export const hostname = "http://localhost:3000/api";
+const env = process.env.NODE_ENV
+export const hostname = `${env === 'development' ? 'http://localhost:3000' : ''}/api`;
 export const battleUrl = "/battle";
 export const monstersUrl = "/monsters";
 
